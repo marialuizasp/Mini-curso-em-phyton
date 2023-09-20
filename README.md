@@ -1,1 +1,1 @@
-# Mini-curso-em-phyton aonde eu reiei um relatório de vendas contendo o faturamento de cada loja, a quantidade de produto vendidos e o ticket médio e, ao final, juntei todas essas informações e enviei para o meu gerente por e-mail html customizado.
+# Mini-curso-em-phyton aonde eu criei um relatório de vendas contendo o faturamento de cada loja, a quantidade de produto vendidos e o ticket médio e, ao final, juntei todas essas informações e enviei para o meu gerente por e-mail html customizado.
